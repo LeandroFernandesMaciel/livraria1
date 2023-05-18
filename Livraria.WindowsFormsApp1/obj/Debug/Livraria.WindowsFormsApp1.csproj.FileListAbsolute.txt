@@ -1,0 +1,14 @@
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\bin\Debug\Livraria.WindowsFormsApp1.exe.config
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\bin\Debug\Livraria.WindowsFormsApp1.exe
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\bin\Debug\Livraria.WindowsFormsApp1.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.Cliente.resources
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.Genero.resources
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.exe
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.Categoria.resources
+C:\Users\ALUNO\source\repos\Livraria\Livraria.WindowsFormsApp1\obj\Debug\Livraria.WindowsFormsApp1.Filme.resources

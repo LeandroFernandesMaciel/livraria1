@@ -1,0 +1,14 @@
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Cliente.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Cliente.pdb
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Filmes.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Genero.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Livraria.WindowsFormsApp1.exe
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Filmes.pdb
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Genero.pdb
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Livraria.WindowsFormsApp1.pdb
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Livraria.WindowsFormsApp1.exe.config
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.pdb

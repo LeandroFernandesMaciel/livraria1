@@ -1,0 +1,6 @@
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Cliente.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\bin\Debug\Cliente.pdb
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Livraria.Cliente.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Livraria.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.dll
+C:\Users\ALUNO\source\repos\Livraria\Cliente\obj\Debug\Cliente.pdb

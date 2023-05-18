@@ -1,0 +1,16 @@
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Livraria.net.dll
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Livraria.net.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Cliente.dll
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Filmes.dll
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Genero.dll
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Livraria.WindowsFormsApp1.exe
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Cliente.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Filmes.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Genero.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Livraria.WindowsFormsApp1.pdb
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\bin\Debug\Livraria.WindowsFormsApp1.exe.config
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\obj\Debug\Categoria.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\obj\Debug\Categoria.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\obj\Debug\Categoria.csproj.CopyComplete
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\obj\Debug\Livraria.net.dll
+C:\Users\ALUNO\source\repos\Livraria\Livraria.net\obj\Debug\Livraria.net.pdb

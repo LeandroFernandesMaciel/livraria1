@@ -1,0 +1,10 @@
+C:\Users\ALUNO\source\repos\Livraria\Genero\bin\Debug\Genero.dll
+C:\Users\ALUNO\source\repos\Livraria\Genero\bin\Debug\Genero.pdb
+C:\Users\ALUNO\source\repos\Livraria\Genero\bin\Debug\Livraria.WindowsFormsApp1.exe
+C:\Users\ALUNO\source\repos\Livraria\Genero\bin\Debug\Livraria.WindowsFormsApp1.pdb
+C:\Users\ALUNO\source\repos\Livraria\Genero\bin\Debug\Livraria.WindowsFormsApp1.exe.config
+C:\Users\ALUNO\source\repos\Livraria\Genero\obj\Debug\Genero.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\Livraria\Genero\obj\Debug\Genero.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\Livraria\Genero\obj\Debug\Genero.csproj.CopyComplete
+C:\Users\ALUNO\source\repos\Livraria\Genero\obj\Debug\Genero.dll
+C:\Users\ALUNO\source\repos\Livraria\Genero\obj\Debug\Genero.pdb
